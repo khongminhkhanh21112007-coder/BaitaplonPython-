@@ -1,0 +1,126 @@
+{
+    "thanh_vien": [
+        {
+            "ma": "1004",
+            "ho_ten": "Trần Thị Hà",
+            "ngay_sinh": "31/12/2007",
+            "gioi_tinh": "Nữ",
+            "sdt": "0398475190",
+            "ngay_gia_nhap": "21/02/2026",
+            "loai": "Tich cuc",
+            "hoi_phi": 150000,
+            "trang_thai": "Chua dong"
+        },
+        {
+            "ma": "1008",
+            "ho_ten": "Nguyễn Đức Anh",
+            "ngay_sinh": "12/03/2007",
+            "gioi_tinh": "Nam",
+            "sdt": "0347280428",
+            "ngay_gia_nhap": "11/04/2026",
+            "loai": "Tich cuc",
+            "hoi_phi": 150000,
+            "trang_thai": "Chua dong"
+        },
+        {
+            "ma": "1003",
+            "ho_ten": "Nguyễn Diệu Huyền",
+            "ngay_sinh": "21/07/2005",
+            "gioi_tinh": "Nữ",
+            "sdt": "0389527459",
+            "ngay_gia_nhap": "14/05/2026",
+            "loai": "Thuong",
+            "hoi_phi": 100000,
+            "trang_thai": "Chua dong"
+        },
+        {
+            "ma": "1002",
+            "ho_ten": "Chu Hồng Minh",
+            "ngay_sinh": "05/08/2000",
+            "gioi_tinh": "Nam",
+            "sdt": "0389247549",
+            "ngay_gia_nhap": "11/06/2026",
+            "loai": "Tich cuc",
+            "hoi_phi": 150000,
+            "trang_thai": "Chua dong"
+        },
+        {
+            "ma": "1005",
+            "ho_ten": "Nguyễn Thị Giang",
+            "ngay_sinh": "07/02/2005",
+            "gioi_tinh": "Nữ",
+            "sdt": "0358410458",
+            "ngay_gia_nhap": "23/07/2026",
+            "loai": "Thuong",
+            "hoi_phi": 100000,
+            "trang_thai": "Chua dong"
+        },
+        {
+            "ma": "1001",
+            "ho_ten": "Lê Đức Thiện",
+            "ngay_sinh": "25/05/2003",
+            "gioi_tinh": "Nam",
+            "sdt": "0325348370",
+            "ngay_gia_nhap": "11/09/2026",
+            "loai": "Thuong",
+            "hoi_phi": 100000,
+            "trang_thai": "Da dong"
+        },
+        {
+            "ma": "1006",
+            "ho_ten": "Nguyễn Văn Hùng",
+            "ngay_sinh": "12/11/2007",
+            "gioi_tinh": "Nam",
+            "sdt": "0342480248",
+            "ngay_gia_nhap": "05/10/2026",
+            "loai": "Thuong",
+            "hoi_phi": 100000,
+            "trang_thai": "Chua dong"
+        },
+        {
+            "ma": "1009",
+            "ho_ten": "Trần Phương Uyên",
+            "ngay_sinh": "21/11/2007",
+            "gioi_tinh": "Nữ",
+            "sdt": "0342606457",
+            "ngay_gia_nhap": "12/10/2026",
+            "loai": "Thuong",
+            "hoi_phi": 100000,
+            "trang_thai": "Chua dong"
+        },
+        {
+            "ma": "1000",
+            "ho_ten": "Nguyễn Văn An",
+            "ngay_sinh": "11/02/2007",
+            "gioi_tinh": "Nam",
+            "sdt": "0359356028",
+            "ngay_gia_nhap": "23/10/2026",
+            "loai": "Thuong",
+            "hoi_phi": 100000,
+            "trang_thai": "Da dong"
+        },
+        {
+            "ma": "1007",
+            "ho_ten": "Trần Văn Ý",
+            "ngay_sinh": "17/09/2006",
+            "gioi_tinh": "Nam",
+            "sdt": "0321546378",
+            "ngay_gia_nhap": "23/10/2026",
+            "loai": "Thuong",
+            "hoi_phi": 100000,
+            "trang_thai": "Chua dong"
+        }
+    ],
+    "lich_su": [
+        {
+            "ma": "1000",
+            "ky": "10/2026",
+            "so_tien": 100000
+        },
+        {
+            "ma": "1001",
+            "ky": "10/2026",
+            "so_tien": 100000
+        }
+    ]
+}
